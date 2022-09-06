@@ -1,0 +1,23 @@
+#inp1{
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 18px;
+        width: 100px;
+      }
+    #inp2{
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 18px;
+        width: 100px;
+      }
+      #btn{
+        border-radius: 5px;
+        margin: 8px;
+      }
+      #result{
+        margin-left: 65px;
+        color: red;
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 10px;
+      }
