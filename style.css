@@ -21,3 +21,10 @@
         font-weight: bold;
         margin-top: 10px;
       }
+      #result-line{
+        margin-left: 0px;
+        color: black;
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 20px;
+      }
